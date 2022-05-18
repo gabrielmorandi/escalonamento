@@ -1,4 +1,3 @@
-//O codigo foi escrito baseando-se no exemplo mostrado no video para uma compreensao facilitada
 //Pessoas pagando contas em um caixa que so permite certo numero de contas
 #include <stdlib.h>
 #include <stdio.h>
