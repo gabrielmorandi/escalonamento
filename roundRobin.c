@@ -39,7 +39,6 @@ void fila(){
         frenteFila++;                               //Atualiza primeira posicao
             if(frenteFila>NumEscolhidoPessoas)    //Faz a rotacao
                 frenteFila=0;
-        system("PAUSE");
     }
 }
 
